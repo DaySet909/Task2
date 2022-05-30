@@ -10,14 +10,14 @@ namespace Junior
     {
         static void Main(string[] args)
         {
-            byte sign;
-            sbyte run;
+            byte signs;
+            sbyte damage;
             short hits;
-            ushort car;
-            int health;
-            uint coin;
+            ushort cars;
+            int healths;
+            uint coins;
             long millesAway;
-            ulong step;
+            ulong steps;
             bool variant;
             string dialog;
             float range;
